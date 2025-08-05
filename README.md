@@ -10,6 +10,7 @@ A machine learning project that recognizes hand gestures using computer vision a
 ├── app.py                                   # Main application file
 ├── best_hand_gesture_model.h5               # Trained model weights (best performing)
 ├── Read Me                                  # Read ME
+├── Hand_Gesture_Recognition_model.h5        # Alternative model weights                  
 └── hand-gesture-recognition.ipynb           # Original training notebook
 ```
 
